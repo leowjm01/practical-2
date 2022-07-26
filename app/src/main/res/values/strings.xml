@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prac4</string>
+    <string name="boxOne">BoxOne</string>
+    <string name="boxTwo">BoxTwo</string>
+    <string name="boxThree">boxThree</string>
+    <string name="boxFour">BoxFour</string>
+    <string name="boxFive">BoxFive</string>
+</resources>
