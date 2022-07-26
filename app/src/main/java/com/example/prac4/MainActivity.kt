@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setListeners() {
-
         val boxOneText = findViewById<TextView>(R.id.boxOne)
         val boxTwoText: TextView = findViewById(R.id.boxTwo)
         val boxThreeText = findViewById<TextView>(R.id.boxThree)

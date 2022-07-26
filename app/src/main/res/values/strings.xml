@@ -5,4 +5,5 @@
     <string name="boxThree">boxThree</string>
     <string name="boxFour">BoxFour</string>
     <string name="boxFive">BoxFive</string>
+    <string name="resetBtnTxt">reset</string>
 </resources>
